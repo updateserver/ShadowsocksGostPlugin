@@ -6,7 +6,7 @@ mkdir build
 
 cd build
 
-git clone https://github.com/xausky/gost.git
+git clone https://github.com/updateserver/gost.git
 
 cd gost
 
